@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "navee",
+      "email": "abc@gmail.com",
+      "id": "8dca"
+    },
+    {
+      "id": "2f61",
+      "name": "mallesh ",
+      "email": "mallesh@gmail.com"
+    },
+    {
+      "id": "5643",
+      "name": "ramanji",
+      "email": "ramanji@gmail.com"
+    },
+    {
+      "id": "b823",
+      "name": "zadadd",
+      "email": "zvccc@gmail.com"
+    },
+    {
+      "name": "shashi",
+      "email": "shashi@gmail.com",
+      "id": "00d5"
+    },
+    {
+      "id": "506d",
+      "name": "sandhya",
+      "email": "sandhya@gmail.com"
+    }
+  ]
+}
